@@ -9,3 +9,9 @@ color: var(--greenyellow)
 img{
     width:80%;
 }
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
