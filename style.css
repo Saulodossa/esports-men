@@ -1,9 +1,12 @@
+:root{
+    --black: #670370;
+}
+
 body {
 background-color:darkorchid ;
 color: greenyellow;
 }
 
 img{
-    width: 80% ;
-
+    width:80%;
 }
