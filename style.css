@@ -1,11 +1,10 @@
 :root{
     --black: #670370;
+    --greenyellow:  #74ca11;
 }
-
 body {
-background-color:darkorchid ;
-color: greenyellow;
-}
+background-color: var(--black);
+color: var(--greenyellow)
 
 img{
     width:80%;
