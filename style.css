@@ -31,3 +31,8 @@ header{
     border: 5px solid;
     border-radius: 45px;
 }
+
+.Equipe{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
