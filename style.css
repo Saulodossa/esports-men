@@ -47,3 +47,11 @@ header{
 margin: 12px;
 background-color: rgb(255, 255, 255);
 }
+footer{
+background-color: white;
+color: black;
+}
+    a{
+        color: black;
+        text-decoration: none;
+    }
