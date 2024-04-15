@@ -17,6 +17,7 @@ header{
     align-items: flex-start;
     justify-content: space-between;
     background-color: var(--CINZA);
+    color:var(--white) ;
 }  
 
 .img-intro{
