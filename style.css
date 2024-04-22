@@ -67,4 +67,5 @@ color: black;
     
 .prateleira{
     display: flex;
+    text-align: center;
 }
