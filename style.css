@@ -65,3 +65,6 @@ color: black;
     }
 
     
+.prateleira{
+    display: flex;
+}
