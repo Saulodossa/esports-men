@@ -1,76 +1,82 @@
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
 
-:root{
+:root {
     --black: #000000;
-    --white:  #ffffff;
+    --white: #ffffff;
     --salmão: #F39B9B;
     --CINZA: #D9D9D9;
 }
+
 body {
-background-color: var(--white);
-color:var(--black);
-font-family: "Black Ops One", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
-img{
-    width:20%;
+    background-color: var(--white);
+    color: var(--black);
+    font-family: "Black Ops One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 149%;
 }
 
-header{
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
+img {
+    width: 20%;
+}
+
+header {
+    display: grid;
+    grid-template-columns: 80% 20%;
+align-items: center;
     background-color: var(--CINZA);
-    color:var(--black) ;
-}  
+    color: var(--black);
+}
 
-.img-intro{
+.img-intro {
     width: 20%;
 
 }
 
-.intro{
+.intro {
     display: flex;
 }
-.intro{
+
+.intro {
     display: flex;
     background-color: var(--salmão);
     margin: 20px;
     padding: 20px;
-   
+
 }
 
-#Equipe{
+#Equipe {
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
 }
 
-.foto-equipe{
- width: 25%;
+.foto-equipe {
+    width: 25%;
 }
- 
-.Pessoa{
- border: 3px solid #74ca11;
-margin: 12px;
-background-color: rgb(255, 255, 255);
-}
-footer{
-background-color: white;
-color: black;
-}
-    header a{
-        color: black;
-        text-decoration: none;
-    }
 
-    .cor{
-        color: aquamarine;
-    }
+.Pessoa {
+    border: 3px solid #74ca11;
+    margin: 12px;
+    background-color: rgb(255, 255, 255);
+}
 
-    
-.prateleira{
+footer {
+    background-color: white;
+    color: black;
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+}
+
+.cor {
+    color: aquamarine;
+}
+
+
+.prateleira {
     display: flex;
     text-align: center;
 }
