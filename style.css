@@ -26,6 +26,7 @@ header {
 align-items: center;
     background-color: var(--CINZA);
     color: var(--black);
+    text-align: center;
 }
 
 .tit{
