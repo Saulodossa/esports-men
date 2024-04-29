@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
 :root{
     --black: #000000;
     --white:  #ffffff;
@@ -13,11 +15,7 @@ img{
 }
 
 header{
-    black-ops-one-regular {
-        font-family: "Black Ops One", system-ui;
-        font-weight: 400;
-        font-style: normal;
-      }
+    
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
