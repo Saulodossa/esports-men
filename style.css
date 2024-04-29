@@ -13,6 +13,9 @@ img{
 }
 
 header{
+    <style>
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+</style>
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
