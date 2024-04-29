@@ -28,6 +28,9 @@ align-items: center;
     color: var(--black);
 }
 
+.tit{
+    padding-left: 23%
+}
 .img-intro {
     width: 20%;
 
